@@ -20,7 +20,22 @@ WIRING DIAGRAM
 
 
 BOM
-| Name            |         Purpose                                  | Quantity | Total Cost (USD) |                     Link                             |
-| ESP32           | It's the microcontroller of the project          | 1        |       5,94       | Https://es.aliexpress.com/item/1005008889768599.html |
-| 1,8 TFT Screen  | The screen of the project                        | 1        |       6,35       | https://es.aliexpress.com/item/1005011743564962.html |
-| Mechanical Keys | Are the switches to control the device the small | 1        |       5,88       | https://es.aliexpress.com/item/1005007779640100.html |
+
+
+Name             | ESP32
+Purpose          | It's the microcontroller of the project
+Quantity         | 1
+Total Cost (USD) | 5,94
+Link             | https://es.aliexpress.com/item/1005008889768599.html
+
+Name             | 1,8 TFT Screen
+Purpose          | The screen of the project
+Quantity         | 1
+Total Cost (USD) | 6,35
+Link             | https://es.aliexpress.com/item/1005011743564962.html
+
+Name             | Mechanical Keys
+Purpose          | Are the switches to control the device the smallest option to buy is ten switches
+Quantity         | 1
+Total Cost (USD) | 5,88
+Link             | https://es.aliexpress.com/item/1005007779640100.html
