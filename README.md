@@ -14,6 +14,14 @@ CASE
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/595850a5-9723-47cc-91a1-53273b15a149" />
 
+Here is the design of the entire device, including 3D models of the ESP32 and TFT7735 components.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5bca6ef-eb7e-478c-9802-bc39bff4b378" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c649a866-23f9-4160-acd2-506238ba857e" />
+
+
+
 WIRING DIAGRAM
 
 <img width="690" height="697" alt="image" src="https://github.com/user-attachments/assets/f7737cd1-e5bc-4d36-96dc-43b83d05088b" />
