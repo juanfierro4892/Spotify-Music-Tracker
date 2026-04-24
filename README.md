@@ -20,7 +20,11 @@ Here is the design of the entire device, including 3D models of the ESP32 and TF
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c649a866-23f9-4160-acd2-506238ba857e" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc8ed28a-4dfa-4637-98f5-1e24317d5469" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4372ddf8-2a72-468a-9c4d-2ce97b505933" />
+
+Here are all the images showing what the 3D design will look like, displaying all the components
 
 WIRING DIAGRAM
 
